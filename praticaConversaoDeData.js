@@ -58,3 +58,4 @@ function conversorData(data){
 }
 
 conversorData('12/12/3212')
+conversorData('12/03/1212')
